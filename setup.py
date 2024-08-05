@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='ChartSmith',
-    version='0.1.0',
+    version='0.1.1',
     author='Tully OLeary',
     author_email='tullyro@gmail.com',
     description='A package for creating well-formatted, well-labeled visualizations',
