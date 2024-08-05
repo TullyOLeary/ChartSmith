@@ -10,7 +10,7 @@ pip install ChartSmith
 
 ## Usage
 
-Here's how you can use the Visualizer package:
+Here's how you can use the ChartSmith package:
 
 ```python
 from ChartSmith import ChartSmith
